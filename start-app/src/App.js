@@ -1,5 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
+import logo from './logo.svg';
 
 function App() {
   return (
@@ -16,10 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React love!
-          Привет vika!
-          Привет Vika
-          uytre
-          fpfpfpfp
+          Привет, Надя!!!!!!!:3
         </a>
       </header>
     </div>
