@@ -17,6 +17,7 @@ function App() {
         >
           Learn React love!
           Привет vika
+          Привет Vika
         </a>
       </header>
     </div>
